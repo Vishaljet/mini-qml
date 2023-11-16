@@ -62,10 +62,10 @@ artifacts:
 deploy:
   - provider: GitHub
     on:
-      branch: main
+      branch: master
     release: continuous
     artifact: '%BIN%'
     draft: false
     prerelease: true
     auth_token:
-      secure: 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
+      secure: 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
