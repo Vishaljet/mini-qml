@@ -68,4 +68,4 @@ deploy:
     draft: false
     prerelease: true
     auth_token:
-      secure: BC8BBwf6sV+/f+AoRHCskXQBXwdvXuXB7sFuJWN0lbIzJs8E87T77aY5HovyaFmc
+      secure: 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
