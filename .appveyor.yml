@@ -62,7 +62,7 @@ artifacts:
 deploy:
   - provider: GitHub
     on:
-      branch: master
+      branch: main
     release: continuous
     artifact: '%BIN%'
     draft: false
